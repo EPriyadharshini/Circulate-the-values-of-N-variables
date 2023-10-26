@@ -15,7 +15,18 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
-
+```
+#Program to circulate N values.
+#Developed by: E.Priyadharshini
+#RegisterNumber: 23012593
+     def circulate():
+b=a[n:]+a[:n]
+print("After circulating the values are:",b)
+a=eval(input())
+m=int(imput())
+```
 ## Output:
+![OUTPUT]![Alt text](<output.png 2.png>)
 
 ## Result:
+Thus the circulate the values of n variable are executed successfully
